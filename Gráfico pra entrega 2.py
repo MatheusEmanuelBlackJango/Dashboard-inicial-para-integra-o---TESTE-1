@@ -92,7 +92,7 @@ fig.update_layout(
                    titlefont = {'family':  "Arial", 'size': 40, 'color': 'white'}, # dados do título
                    legend_orientation="v", legend=dict(x=1, y=1), # orientação, posição da legenda (séries)
                    plot_bgcolor='powderblue', # cor da área do gráfico
-                   paper_bgcolor='green',
+                   paper_bgcolor='black',
                    modebar_orientation= 'v', modebar_bgcolor='steelblue', # orientação  e cor da modbarra
 )
 
